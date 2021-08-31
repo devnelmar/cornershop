@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class MealtConfig(AppConfig):
-    name = 'mealt'
+class MeltConfig(AppConfig):
+    name = 'cornershoop.melt'
